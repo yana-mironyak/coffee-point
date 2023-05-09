@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/coffe-point/static/css/main.e6c13ad2.css",
+    "main.js": "/coffe-point/static/js/main.0982d47b.js",
+    "static/js/787.0f31782e.chunk.js": "/coffe-point/static/js/787.0f31782e.chunk.js",
+    "static/media/logo.png": "/coffe-point/static/media/logo.d563d492b41e90341344.png",
+    "index.html": "/coffe-point/index.html",
+    "main.e6c13ad2.css.map": "/coffe-point/static/css/main.e6c13ad2.css.map",
+    "main.0982d47b.js.map": "/coffe-point/static/js/main.0982d47b.js.map",
+    "787.0f31782e.chunk.js.map": "/coffe-point/static/js/787.0f31782e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0982d47b.js"
+  ]
+}
